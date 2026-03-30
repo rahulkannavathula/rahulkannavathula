@@ -10,7 +10,7 @@
 
 I'm a passionate **Senior Frontend Engineer** with 9+ years of experience building high-performance web and mobile applications. I love crafting scalable, accessible, and user-friendly products across fintech, healthcare, and food-delivery domains.
 
-- 🔭 Currently working with **React | TypeScript | Redux Toolkit | React Native** at **OpenEnvoy**
+- 🔭 Currently working with **React | TypeScript | Redux Toolkit | React Native** 
 - 🏥 Built cross-platform healthcare apps with **React Native + Firebase**
 - 🧩 Expert in **component-driven architecture** and **Redux state management**
 - 🎯 Passionate about **performance optimization** — code splitting, lazy loading, memoization

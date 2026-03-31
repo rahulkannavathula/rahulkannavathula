@@ -2,13 +2,13 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Senior+Frontend+Engineer;React+%7C+React+Native+%7C+TypeScript;9%2B+Years+of+Experience;Building+High-Performance+Apps)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Senior+Frontend+Engineer;React+%7C+React+Native+%7C+TypeScript;8%2B+Years+of+Experience;Building+High-Performance+Apps)
 
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Senior Frontend Engineer** with 9+ years of experience building high-performance web and mobile applications. I love crafting scalable, accessible, and user-friendly products across fintech, healthcare, and food-delivery domains.
+I'm a passionate **Senior Frontend Engineer** with 8+ years of experience building high-performance web and mobile applications. I love crafting scalable, accessible, and user-friendly products across fintech, healthcare, and food-delivery domains.
 
 - 🔭 Currently working with **React | TypeScript | Redux Toolkit | React Native**
 - 🏥 Built cross-platform healthcare apps with **React Native + Firebase**
